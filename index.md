@@ -1,8 +1,13 @@
 ---
-title: Master-CMD Application profile
-date:  2026-10-09
+title: Gao's Personal Portfolio
+date: 2026-10-09
 ---
-This is a file for my application for graduate school or job. 
-I am currently an undergraduate student major in Physics (applied and general) and Applied Mathematics. 
-My research is in External Cavity Diode Laser (ECDL) where I am responsible in designing Littrow configuration, beam collimation and current and temperature control etc. 
-My skills set including working with excel, python, Matlab and Julia etc
+# [About Me]
+
+Welcome to my personal portfolio! I am currently an undergraduate student studying physics and applied mathematics in University of Connecticut. I am expecting to graduate in May 2027. My current research is on External Cavity Diode Laser(ECDL) and I am interested in going into optical engineering. 
+
+## Skill 
+- **Programming:** Python, MATLAB, Julia
+- **Data Analysis:** Excel
+- **Modeling:** FreeCAD
+- **Other:** LaTeX
